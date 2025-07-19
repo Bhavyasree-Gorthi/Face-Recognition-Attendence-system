@@ -1,4 +1,4 @@
-# Face-Recognition-Attendence-system
+
 # 👤 Face Recognition Attendance System
 
 An AI-powered attendance system using real-time face recognition with OpenCV and a live **Streamlit dashboard**. This system detects faces via webcam, recognizes registered users with a trained KNN model, logs attendance with timestamps, and visualizes the attendance sheet on a refreshing web app.
